@@ -1,0 +1,10 @@
+{
+  "name": "modern-node-page",
+  "version": "1.0.0",
+  "description": "A basic Node.js app with modern HTML and CSS.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
